@@ -1,3 +1,3 @@
 # Lista de Presença com React
 
-<p>Pagina simples utilizando o react como biblioteca do projeto</p>
+<p>Pagina simples utilizando o **React** como biblioteca do projeto</p>
