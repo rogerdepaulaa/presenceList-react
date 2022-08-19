@@ -6,6 +6,7 @@
 
 .container h1 {
   margin: 84px 0 24px;
+  font-size: 24px;
 }
 
 .container input {
@@ -14,7 +15,6 @@
   background: #e6e6e6;
   border-radius: 5px;
   border: none;
-  font-size: 16px;
 }
 
 .container button {
@@ -28,7 +28,6 @@
   border: none;
   cursor: pointer;
   transition: filter 0.2s;
-  font-size: 16px;
 }
 
 .container button:hover {
